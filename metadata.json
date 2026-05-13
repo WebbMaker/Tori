@@ -1,0 +1,8 @@
+{
+  "name": "Tori Sushi Olsztyn",
+  "description": "High-end, cinematic bilingual website for Tori Sushi in Galeria Warmińska, Olsztyn. Features immersive animations and a luxury Japanese aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
